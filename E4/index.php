@@ -33,15 +33,15 @@
                 <a href="./views/pages/cv.php" target="_blank" class='grille-btn'>Consulter</a>
             </div>
             <div class='grille' id='grille2'>
-                <h2>Mes Comptétences E4</h2>
+                <h2>Mes Compétences E4</h2>
                 <p>Les rapport d'activité liés aux compétences de l'épreuve E4.</p>
                 <a href="./views/pages/competences.php" class='grille-btn'>Consulter</a>
             </div>
             <div class='grille' id='grille3'>
                 <h2>Livraison E4</h2>
                 <p>Consulter les rapports d'activités accompagnés du Tableau de Synthèse.</p>
-                <a href="./public/rapport/tableau.pdf" target="_blank" class='grille-btn'>Consulter le Tableau</a><br>
-                <a href="./public/rapport/Rapport Secure-IP.pdf" target="_blank" class='grille-btn'>Consulter le Rapport</a>
+                <a href="./public/rapport/BTS_SIO_-Tableau_de_synthese_-_Epreuve_E4 (3).pdf" target="_blank" class='grille-btn'>Consulter le Tableau</a><br>
+                <a href="./public/rapport/rapport-de-stage-et-d_alternance-Waël-Rabahi-Cabinet-Ls-Conseil.pdf" target="_blank" class='grille-btn'>Consulter le Rapport</a>
             </div>
             <div class='grille' id='grille4'>
                 <h2>Veille technologique</h2>

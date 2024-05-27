@@ -108,32 +108,32 @@ main a {
         <div class='mainbloc' id='bloc'>
             <div class='grille' id='comp1'>
                 <h2>Compétence 1</h2><br>
-                <p>Mettre à dispositon des utilisateurs un service informatique</p>
+                <p>Gérer des sauvegardes</p>
                 <a href="../../public/pdf/Compétences_1.pdf" target="_blank" class='grille-btn'>Consulter</a>
             </div>
             <div class='grille' id='comp2'>
                 <h2>Compétence 2</h2><br>
-                <p>Mettre en œuvre des outils stratégiques de veille informationnel</p>
+                <p>Traiter des demandes concernant les applications</p>
                 <a href="../../public/pdf/Compétences_2.pdf" target="_blank" class='grille-btn'>Consulter</a>
             </div>
             <div class='grille' id='comp3'>
                 <h2>Compétence 3</h2><br>
-                <p>Gérer des sauvegardes</p>
+                <p>Développer la présence en ligne de l'organisation</p>
                 <a href="../../public/pdf/Compétences_3.pdf" target="_blank" class='grille-btn'>Consulter</a>
             </div>
             <div class='grille' id='comp4'>
                 <h2>Compétence 4</h2><br>
-                <p>Traiter des demandes concernant les applications</p>
+                <p>Travailler en mode projet</p>
                 <a href="../../public/pdf/Compétences_4.pdf" target="_blank" class='grille-btn'>Consulter</a>
             </div>
             <div class='grille' id='comp5'>
                 <h2>Compétence 5</h2><br>
-                <p>Travailler en mode projet</p>
+                <p>Mettre à dispositon des utilisateurs un service informatique</p>
                 <a href="../../public/pdf/Compétences_5.pdf" target="_blank" class='grille-btn'>Consulter</a>
             </div>
             <div class='grille' id='comp6'>
                 <h2>Compétence 6</h2><br>
-                <p>Développer la présence en ligne de l'organisation</p>
+                <p>Mettre en œuvre des outils stratégiques de veille informationnel</p>
                 <a href="../../public/pdf/Compétences_6.pdf" target="_blank" class='grille-btn'>Consulter</a>
             </div>
         </div>
